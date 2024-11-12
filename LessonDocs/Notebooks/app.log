@@ -1,0 +1,43 @@
+2024-11-12 14:54:35,202 - DEBUG - This is a debug message logged to a file
+2024-11-12 14:54:35,203 - INFO - This is an info message logged to a file
+2024-11-12 14:54:35,203 - WARNING - This is a warning message logged to a file
+2024-11-12 14:54:35,203 - ERROR - This is an error message logged to a file
+2024-11-12 14:54:35,203 - CRITICAL - This is a critical message logged to a file
+2024-11-12 14:54:37,038 - DEBUG - This is a debug message logged to a file
+2024-11-12 14:54:37,038 - INFO - This is an info message logged to a file
+2024-11-12 14:54:37,038 - WARNING - This is a warning message logged to a file
+2024-11-12 14:54:37,038 - ERROR - This is an error message logged to a file
+2024-11-12 14:54:37,038 - CRITICAL - This is a critical message logged to a file
+2024-11-12 14:55:08,981 - DEBUG - This is a debug message logged to a file
+2024-11-12 14:55:08,981 - INFO - This is an info message logged to a file
+2024-11-12 14:55:08,981 - WARNING - This is a warning message logged to a file
+2024-11-12 14:55:08,981 - ERROR - This is an error message logged to a file
+2024-11-12 14:55:08,981 - CRITICAL - This is a critical message logged to a file
+2024-11-12 14:55:15,461 - WARNING - This is a warning message with custom formatting
+2024-11-12 14:55:15,461 - ERROR - This is an error message with custom formatting
+2024-11-12 14:56:28,066 - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "C:\Users\tswarm\AppData\Local\Temp\ipykernel_4384\3782814141.py", line 8, in log_exception
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2024-11-12 14:58:19,218 - INFO - Starting division operation
+2024-11-12 14:58:19,218 - INFO - Dividing 10 by 2
+2024-11-12 14:58:19,218 - INFO - Result of division: 5.0
+2024-11-12 14:58:19,218 - INFO - Starting division operation
+2024-11-12 14:58:19,218 - INFO - Dividing 10 by 0
+2024-11-12 14:58:19,218 - WARNING - Warning: Division by zero
+2024-11-12 14:58:20,152 - INFO - Starting division operation
+2024-11-12 14:58:20,152 - INFO - Dividing 10 by 2
+2024-11-12 14:58:20,152 - INFO - Result of division: 5.0
+2024-11-12 14:58:20,153 - INFO - Starting division operation
+2024-11-12 14:58:20,153 - INFO - Dividing 10 by 0
+2024-11-12 14:58:20,153 - WARNING - Warning: Division by zero
+2024-11-12 14:58:29,474 - DEBUG - Entering divide_numbers function
+2024-11-12 14:58:29,474 - INFO - Starting division operation
+2024-11-12 14:58:29,474 - INFO - Dividing 10 by 2
+2024-11-12 14:58:29,474 - INFO - Result of division: 5.0
+2024-11-12 14:58:29,474 - DEBUG - Entering divide_numbers function
+2024-11-12 14:58:29,474 - INFO - Starting division operation
+2024-11-12 14:58:29,474 - INFO - Dividing 10 by 0
+2024-11-12 14:58:29,477 - WARNING - Warning: Division by zero
