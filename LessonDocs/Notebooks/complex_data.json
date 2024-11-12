@@ -1,0 +1,13 @@
+{
+    "name": "Bob",
+    "age": 30,
+    "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA"
+    },
+    "phone_numbers": [
+        "123-456-7890",
+        "987-654-3210"
+    ]
+}
